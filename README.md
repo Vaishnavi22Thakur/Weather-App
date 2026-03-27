@@ -6,8 +6,6 @@ A simple weather application that allows users to search for any city and get re
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ![Weather App Screenshot](images/screenshot.png)
 
 ---
