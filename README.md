@@ -39,26 +39,6 @@ weather-app/
 
 ---
 
-## ⚙️ Setup Instructions
-
-1. Clone the repository:
-git clone https://github.com/Vaishnavi22Thakur/Weather-App.git
-
-2. Open the project folder:
-cd Weather-App
-
-3. Add your API key in `script.js`:
-
-// 🔐 Add your OpenWeather API key below
-const apiKey = "YOUR_API_KEY";
-
-4. Get your API key from OpenWeather
-
-5. Run the project:
-Open `index.html` in your browser  
-
----
-
 ## 🔐 API Key Note
 
 This project uses the OpenWeather API.  
