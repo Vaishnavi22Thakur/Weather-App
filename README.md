@@ -48,7 +48,7 @@ You may need to add your own API key if running locally.
 
 ## 🌐 Live Demo
 
-(Add your GitHub Pages link here)
+[(Add your GitHub Pages link here)](https://vaishnavi22thakur.github.io/Weather-App/)
 
 ---
 
