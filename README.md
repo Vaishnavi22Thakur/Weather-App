@@ -6,7 +6,9 @@ A simple weather application that allows users to search for any city and get re
 
 ## 📸 Preview
 
-(Add screenshot here later)
+## 📸 Preview
+
+![Weather App Screenshot](images/screenshot.png)
 
 ---
 
@@ -78,9 +80,3 @@ You may need to add your own API key if running locally.
 - 📊 Add 5-day forecast  
 - 🎨 Improve UI with animations  
 - 🌙 Add dark/light mode  
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
